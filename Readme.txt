@@ -29,7 +29,7 @@ Notes:
 
 - Administrator rights are required.
 - It is recommended to create a system restore point before applying registry changes.
-- No restart is required after running the script.
+- No restart is required after running the script(But Recommended).
 
 Author:
 -------
